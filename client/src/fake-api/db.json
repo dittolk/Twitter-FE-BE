@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "email": "elonmusk@gmail.com",
+      "password": "elon123",
+      "bio": "I will destroy twitter",
+      "followers_list": [
+        "Mark Zuckeberg",
+        "Joe Biden"
+      ],
+      "following_list": [
+        "Mark Zuckeberg"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "email": "zuck@gmail.com",
+      "password": "zuck123",
+      "bio": "Hey there! I'm using twitter.",
+      "followers_list": [
+        "Mark Zuckeberg",
+        "Joe Biden"
+      ],
+      "following_list": [
+        "Mark Zuckeberg"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Aman Hidayat",
+      "username": "amanhidayat",
+      "email": "aman@yandex.com",
+      "password": "aman123",
+      "bio": "Hey there! I'm using twitter.",
+      "followers_list": [
+        "Mark Zuckeberg",
+        "Joe Biden"
+      ],
+      "following_list": [
+        "Mark Zuckeberg"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Andre Febrianto",
+      "username": "andrefebri",
+      "email": "andre@gmail.com",
+      "password": "andre123",
+      "bio": "Hey there! I'm using twitter.",
+      "referral_code": "",
+      "followers_list": [
+        "Mark Zuckeberg",
+        "Joe Biden"
+      ],
+      "following_list": [
+        "Mark Zuckeberg"
+      ],
+      "referral": "AFB4F7",
+      "id": 4
+    }
+  ],
+  "tweets": [
+    {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "tweet": "HEHEHE",
+      "id": 1
+    },
+    {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "tweet": "HAHAHA",
+      "id": 2
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "tweet": "Threads is better",
+      "id": 3
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "tweet": "WKWKWKWK",
+      "id": 4
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "tweet": "Musk is a coward",
+      "id": 5
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "tweet": "It's gonna be ok",
+      "id": 6
+    },
+    {
+      "name": "Elon Musk",
+      "username": "elonmusk",
+      "tweet": "Everything's gonna be alright",
+      "id": 7
+    },
+    {
+      "name": "Aman Hidayat",
+      "username": "amanhidayat",
+      "tweet": "Halo semuanya kapan Bandung hujan",
+      "id": 8
+    },
+    {
+      "name": "Andre Febrianto",
+      "username": "andrefebri",
+      "tweet": "Ini tweet",
+      "id": 9
+    },
+    {
+      "name": "Mark Zuckeberg",
+      "username": "Zuck",
+      "tweet": "I love Threads",
+      "id": 10
+    }
+  ]
+}
